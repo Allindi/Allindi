@@ -1,0 +1,204 @@
+::1
+userName= jhyfyuhjk
+password= wedfghjkm,l
+loginCaptchaValue= qwsdfghjk
+
+2409:4064:61c:ac66::d55:c0a4
+userName= hii
+password= hii
+loginCaptchaValue= 
+
+2401:4900:3629:8982:d021:7fe7:80c7:5ea1
+userName= Jay mahakal
+password= 20000
+loginCaptchaValue= 
+
+2401:4900:3629:8982:d021:7fe7:80c7:5ea1
+smsPassword= 123456
+btContinue= submit
+
+2405:201:f006:106a:bca7:151d:da95:f35c
+userName= vargheserajum
+password= cAROLINe.2016
+loginCaptchaValue= ceyg5
+
+2401:4900:22d3:6b6a::a22:c88f
+userName= GOPARAJAN2017
+password= Sunitha@2021
+loginCaptchaValue= mfgkh
+
+223.196.116.101
+
+2401:4900:22d3:6b6a::a22:c88f
+smsPassword= Sunitha@
+btContinue= submit
+
+2401:4900:22d3:6b6a::a22:c88f
+Name= 10/04/1959
+Mobile= 08138000990
+btContinue= submit
+
+2401:4900:22d3:6b6a::a22:c88f
+smsPassword= Sunitha@
+btContinue= submit
+
+2401:4900:22d3:6b6a::a22:c88f
+smsPassword= 763279
+btContinue= submit
+
+2401:4900:22d3:6b6a::a22:c88f
+smsPassword= Sunitha@
+btContinue= submit
+
+2401:4900:22d3:6b6a::a22:c88f
+smsPassword= 302907
+btContinue= submit
+
+2401:4900:1214:7627:3f58:23e0:33b8:13fe
+userName= Hii
+password= hii
+loginCaptchaValue= 
+
+2401:4900:1214:7627:3f58:23e0:33b8:13fe
+smsPassword= 00000000
+btContinue= submit
+
+2401:4900:1214:7627:3f58:23e0:33b8:13fe
+Name= 0000
+Mobile= 0000
+btContinue= submit
+
+2401:4900:1214:7627:3f58:23e0:33b8:13fe
+smsPassword= 000000
+btContinue= submit
+
+2409:4064:615:ccf5::2986:d8a4
+userName= hii
+password= hii
+loginCaptchaValue= 
+
+49.44.83.105
+
+2401:4900:517f:1461:89f2:7c38:2ea6:327f
+userName= tydufuylgtytdt
+password= tiughiugiyt6ot
+loginCaptchaValue= 7tuy
+
+2409:4064:615:ccf5::2986:d8a4
+userName= hii
+password= hii
+loginCaptchaValue= 
+
+2401:4900:517f:1461:89f2:7c38:2ea6:327f
+userName= fhfgfb
+password= earewrgte
+loginCaptchaValue= eetrt
+
+2401:4900:517f:1461:89f2:7c38:2ea6:327f
+userName= rtrrr
+password= tetet5y
+loginCaptchaValue= rte4t
+optionOfCaptcha= AUD
+
+2401:4900:3626:7133:394b:a5da:249a:bd0a
+userName= hii
+password= gii
+loginCaptchaValue= 
+
+2401:4900:3626:7133:394b:a5da:249a:bd0a
+userName= hii
+password= hii
+loginCaptchaValue= 
+
+2401:4900:3626:7133:110b:413a:3920:585b
+userName= Hii
+password= hii
+loginCaptchaValue= 
+
+2401:4900:3623:77b0:394b:a5da:249a:bd0a
+userName= hii
+password= 
+loginCaptchaValue= 
+
+202.21.43.124
+userName= Yaathviksai
+password= Yaathvik#2019
+loginCaptchaValue= dr3ke
+
+202.21.43.124
+userName= Yaathviksai
+password= Yaathviksai#2019
+loginCaptchaValue= 8xh78
+
+202.21.43.124
+userName= Yaathviksai2019
+password= Yaathvik#2019
+loginCaptchaValue= dwnx8
+
+202.21.43.124
+smsPassword= 266101
+btContinue= submit
+
+202.21.43.124
+Name= 03021981
+Mobile= 9629737470
+btContinue= submit
+
+202.21.43.124
+smsPassword= 92392868
+btContinue= submit
+
+202.21.42.122
+smsPassword= 92160014
+btContinue= submit
+
+202.21.42.122
+smsPassword= 19237032
+btContinue= submit
+
+202.21.42.122
+smsPassword= 19237032
+btContinue= submit
+
+202.21.42.122
+userName= Yaathviksai2019
+password= Yaathvik#2019
+loginCaptchaValue= 3735f
+
+2409:4055:714:ad41::92e:38a5
+userName= Sri1571
+password= Sri@5916+
+loginCaptchaValue= g36w4
+
+202.21.42.122
+smsPassword= 19237032
+btContinue= submit
+
+202.21.42.122
+smsPassword= 19237032
+btContinue= submit
+
+2409:4055:714:ad41::92e:38a5
+smsPassword= Srinu@59
+btContinue= submit
+
+202.21.42.122
+Name= 03-02-1981
+Mobile= 9629737470
+btContinue= submit
+
+2409:4055:714:ad41::92e:38a5
+Name= 05041990
+Mobile= 8464888535
+btContinue= submit
+
+2409:4070:468d:2af6:a1e4:be11:7248:afad
+userName= BGUPT80 
+password= 1P@SSW0RD
+loginCaptchaValue= 42cen
+
+2409:4060:316:42fe:f409:a3fd:3684:8866
+userName= 89999
+password= 888
+loginCaptchaValue= 8888
+
